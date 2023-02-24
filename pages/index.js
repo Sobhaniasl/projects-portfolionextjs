@@ -151,37 +151,37 @@ export default function Home() {
             <div className="basis-1/3 flex-1 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300">
               <Image
                 src={web1}
-                className="rounded-lg object-fill w-full h-96"
+                className="rounded-lg object-fill w-full"
               />
             </div>
             <div className="basis-1/3 flex-1 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300">
               <Image
                 src={web2}
-                className="rounded-lg object-cover w-full h-96"
+                className="rounded-lg object-cover w-full"
               />
             </div>
             <div className="basis-1/3 flex-1 transit-ion ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300">
               <Image
                 src={web3}
-                className="rounded-lg object-cover w-full h-96"
+                className="rounded-lg object-cover w-full"
               />
             </div>
             <div className="basis-1/3 flex-1 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300">
               <Image
                 src={web4}
-                className="rounded-lg object-cover w-full h-96"
+                className="rounded-lg object-cover w-full "
               />
             </div>
             <div className="basis-1/3 flex-1 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300">
               <Image
                 src={web5}
-                className="rounded-lg object-cover w-full h-96"
+                className="rounded-lg object-cover w-full "
               />
             </div>
             <div className="basis-1/3 flex-1 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300">
               <Image
                 src={web6}
-                className="rounded-lg object-cover w-full h-96"
+                className="rounded-lg object-cover w-full "
               />
             </div>
           </div>
